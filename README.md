@@ -3,7 +3,6 @@
 ### Introduction: a brief information about the project. 
 Based on existing orgnizational and governmental COVID-19 related apps and websites, this project aims to create a COVID-19 Information Tracking app that assists the public and helps the public to easily access governmental information related to COVID-19. The app will support a visualization of COVID-19 data with statistical graphs, a visualization of the spread of COVID-19 with an interactive Map tool, provide updated national and local goverment guidance and news with a Resources tool, and assists individual needs with a Q&A tool. I hope I could contribute to the User Experience/Interface Design of public health information apps and better help the public in acquiring pandemic-relevant information. 
 
-[read more...](url)
 ### Clear design statement: 
 (What is the issue and Why do you think it is important to resolve that issue by your project?) 
 During quarantine, I have observed many people, such as my friends and family, who were overwhelmed and confused by both the abundance of information on the Internet and the platforms that provide the information, as the platforms’ designs might not be user-friendly. I think it is important for the public to gain timely, clear, relevant, and true information through the uses of public health mobile platforms, especially during this time.
