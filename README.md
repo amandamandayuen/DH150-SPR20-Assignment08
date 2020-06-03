@@ -81,6 +81,7 @@ To better simulate a real interactive system, the high-fidelity prototype also s
 ### Optional Evaluation and Revision History
 #### Impression Test
 I conducted two impression tests both in-class and outside of class. The main feedback from the impression tests include the affordance of the design of the buttons, confusion related to the filter circles on map, and language choices for certain buttons. [read more about impression test in this page>>](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/README.md)
+
 #### Accessibility Audit
 Accessibility Audit suggests that the prototypes pass WCAG 2.00 AA level requirements.
 
