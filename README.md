@@ -34,9 +34,12 @@ Based on feedback from User Research and the tasks from UX Storytelling, I first
 Based on feedback from low-fidelity prototyping, I revised the prototypes and created a high-fidelity version that simulate real-life app system, and conducted impression test and usability test to see how potential users could actually interact with the system and reveal more parts for improvements to better assist potential users in looking for what they need. [read more about high-fidelity prototyping>>](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/README.md)
 
 ### Low-Fidelity Prototype (wireflow, assignment06)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
-
-More to come
+ low
+  Tasks that the low-fidelity prototype support:
+- (Map tool) Find the spread of active cases in 1) California and in 2) Westwood.
+- (Q&A tool) Look for mental health online call line
+- (Resources tool) Search for 1) local testing booths information and 2) latest restaurant guidance
+[read more about low-fidelity prototyping>>](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype) 
 ### High-Fidelity Prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
 
