@@ -13,11 +13,11 @@ To better understand current situations of COVID-19 related apps, I analyzed two
   2. (COVID-19Tracker app) No search tool or filter tool provided for users to search for news they want on the Feed page
   3. (CDC app) Menu button for news/articles categories is not obvious to new users
   4. (CDC app) Lacks bottom tap bar (lack of consistency with conventional app design)
-  5. (Both apps) needs to improve the system for item recognition rather than recall
+  5. (Both apps) need to improve the system for item recognition rather than recall
   [read more>>](https://github.com/amandamandayuen/DH150-SPR20-HeuristicEvaluation-Assignment01)
 
 #### Usability Testing
-This usability testing evaluated the COVID-19Tracker app, aiming to see whether the features on COVID-19Tracker app are navigable, whether the app presents clear information related to COVID-19 data and news, whether users can find the information they need on the app, and users' attitude towards the app.[read more>>](https://github.com/amandamandayuen/DH150-SPR20-UT-Assignment02)
+To better understand how a person would actually interact with an app, this usability testing evaluated the COVID-19Tracker app using three main usability metric - effectiveness, efficiency and satisfaction. This testing aims to see whether the features on COVID-19Tracker app are navigable, whether the app presents clear information related to COVID-19 data and news, whether a user can effectively and efficiently find the information she/he needs, and users' attitude towards the app. Based on results from Heuristic Evaluation, I developed three tasks for the participant to complete. I found that the user did struggle with recognizing certain less visiable features and looking for specific information, as these aspects of the UI/UX design of the interface were not user-friendly enough. [read more>>](https://github.com/amandamandayuen/DH150-SPR20-UT-Assignment02)
 
 ### User Research [contextual inquiry, assignment04]:
 This User Research aimed to understand more about the target users and the context users are in. [read more>>](https://github.com/amandamandayuen/DH150-SPR20-UserInContext-Assignment05)
