@@ -1,12 +1,14 @@
 # COVID-19 Information Tracking App
 ## Amanda Ruan
-### Introduction: a brief information about the project. 
+### Introduction: 
 Based on existing orgnizational and governmental COVID-19 apps and websites, this project aims to propose a COVID-19 Information Tracking app that assists the public' needs and helps the public to easily access governmental information related to COVID-19. The app will support 1) visualizations of COVID-19 data with statistical graphs, 2) visualizations of the spread of COVID-19 with an interactive Map tool, 3) provide updated national and local goverment guidance and news with a Resources tool, 4) and assist individual's needs with a Q&A tool. My motivation to create this project is that there were only a few local governmental apps developed specifically for COVID-19 information and the information was limited in term of the scale of coverage. In addition, CDC also did not develope an information app specifically for COVID-19, and the CDC app only leads users to a mobile version of the CDC website without fitting the information to meet user experience with mobile. It could be hard for the public to access particular information they need because of the exceeding amount of information from a variety of sources and the lack of organizations of the information. Therefore, I hope I could create an app, which covers both local and national COVID-19 information, to help the public to acquire relevant pandemic information more conviently, and to contribute to the User Experience/Interface Design of public health information apps.
 
-### Clear design statement: 
+### Clear Design Statement: 
+How to create a COVID-19 Information app that allows users to conviently access COVID-19 Information?
+
 During quarantine, I have observed many people, such as my friends and family, who were overwhelmed and confused by both the abundance of information on the Internet and the platforms that provide the information. People might find it hard to search for and locate information they want because of the amount of information and variety of sources, and sometimes certain information might not be provided and could not be find easily. In addition, the platforms might not be user-friendly enough to allow the general public to easily look for what they need. Conviently accessing timely, clear, and relevant information is important to the public, especially during this time. People need to be informed of the current development of the COVID-19 situation, and need support in knowing what they should do and where they can seek for help when they need, as the pandemic is relevant to each individual. Providing the conviently-accessed mobile platform for organized COVID-19 information could help to better inform the public and reduce the frustration people encounter when seeking for help and searching for information. 
 
-### Competitor analysis [assignment01 & 02]:
+### Competitor Analysis [assignment01 & 02]:
 #### Heuristic Evaluation
 - To better understand current situations of COVID-19 related apps, I analyzed two public health mobile apps that feature COVID-19 information for the public: 1) The official CDC (Centers for Disease Control and Prevention) app, which features CDC articles and news, 2) The COVID-19Tracker app (developed by HealthLynked Corp), which updates worldwide COVID-19 cases and news. Based on Nielson's 10 Heuristic Principles, the major issues I found include: 
   1. (COVID-19Tracker app) No instruction provide to show how to apply the filter buttons on map page (not obvious enough as buttons that could be applied)
@@ -17,7 +19,7 @@ During quarantine, I have observed many people, such as my friends and family, w
   
  [read more about Heuristic Evaluation>>](https://github.com/amandamandayuen/DH150-SPR20-HeuristicEvaluation-Assignment01)
 
-#### Usability Testing
+#### Usability Testing:
 - To better understand how a person would actually interact with an app, this usability testing evaluated the COVID-19Tracker app using three main usability metric - effectiveness, efficiency and satisfaction. This testing aims to see whether the features on COVID-19Tracker app are navigable, whether the app presents clear information related to COVID-19 data and news, whether a user can effectively and efficiently find the information she/he needs, and users' attitude towards the app. Based on results from Heuristic Evaluation, I developed three tasks for the participant to complete. I found that the user did struggle with recognizing certain less visiable features and looking for specific information, as these aspects of the UI/UX design of the interface were not user-friendly enough. [read more>>](https://github.com/amandamandayuen/DH150-SPR20-UT-Assignment02)
 
 ### User Research [contextual inquiry, assignment04]:
@@ -34,7 +36,7 @@ The purpose of UX Storytelling is to illustrate target users' contexts, needs, p
 [read more about UX Storytelling>>](https://github.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling)
 
 ### Wireframe and Graphic Design Element Variation [assignment06 + part of 07]
-Based on feedback from User Research and the tasks from UX Storytelling, I first drafted a low-fidelity prototyping version of the wireframes and then created a high-fidelity version of the wrieframes for the COVID-19 Information app. 
+Based on feedback from User Research and the tasks from UX Storytelling, I first drafted a low-fidelity prototyping version of the wireframes and then created a high-fidelity version of the wrieframes for the COVID-19 Information app. The layout design combines the design from different public health and COVID-19 apps, and the implement of color scheme also considers the color scheme of CDC websites and other public health apps.
 - The purpose of low-fidelity prototypping is to see whether the system's features are understandable, whether the interaction between a potential user and the wireframes is smooth, how a potential user interprets the features and navigates through the features, and completes the tasks proposed in UX Storytelling. [read more about low-fidelity prototyping>>](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype) 
 - Based on feedback from low-fidelity prototyping, I revised the prototypes and created a high-fidelity version that simulate real-life app system, and conducted impression test and usability test to see how potential users could actually interact with the system and reveal more parts for improvements to better assist potential users in looking for what they need. [read more about high-fidelity prototyping>>](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/README.md)
 
@@ -65,14 +67,32 @@ To better simulate a real interactive system, the high-fidelity prototype also s
 
 [read more about high-fidelity prototyping>>](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/README.md)
 
-#### [Link to high-fidelity wireframes](https://www.figma.com/file/tT7DfvhYQKOVcNCD0sJYDX/DH150-AMANDA-RUAN?node-id=152%3A0) 
+#### [Link to high-fidelity wireframes](https://www.figma.com/file/tT7DfvhYQKOVcNCD0sJYDX/DH150-AMANDA-RUAN?node-id=152%3A0)
+
+<img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/master/Wireflow%20All.png" height="700px">
 
 #### [Link to high-fidelity interactive prototype](https://www.figma.com/proto/tT7DfvhYQKOVcNCD0sJYDX/DH150-AMANDA-RUAN?node-id=152%3A1910&scaling=scale-down)
 
+#### Prototype 1.0
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FtT7DfvhYQKOVcNCD0sJYDX%2FDH150-AMANDA-RUAN%3Fnode-id%3D1%253A2%26scaling%3Dmin-zoom&chrome=DOCUMENTATION" allowfullscreen></iframe>
+
+#### Prototype Revised
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FtT7DfvhYQKOVcNCD0sJYDX%2FDH150-AMANDA-RUAN%3Fnode-id%3D152%253A1%26scaling%3Dmin-zoom&chrome=DOCUMENTATION" allowfullscreen></iframe>
 
-### Optional evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+### Optional Evaluation and Revision History
+#### Impression Test
+I conducted two impression tests both in-class and outside of class. The main feedback from the impression tests include the affordance of the design of the buttons, confusion related to the filter circles on map, and language choices for certain buttons. [read more about impression test in this page>>](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/README.md)
+#### Accessibility Audit
+Accessibility Audit suggests that the prototypes pass WCAG 2.00 AA level requirements.
+<img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/master/additionalaudit1.png" height="200px"> <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/master/additionalaudit2.png" height="200px"> <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/master/additionalaudit3.png" height="200px"> [read more about accessibility audit in this page>>](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/README.md)
+
+#### Cognitive Walkthrough 
+Based on my previous version of high-fidelity prototype, I revised and tested the second revised version of the full prototype with two of my friends and screen-recorded one of the walkthroughs as evidence. The cognitive walkthrough gives me valuable feedback on how I should modify certain features to make the interface more accessible to users when they are actually interacting with the system. [read more about cognitive walkthrough at the bottom of this page>>](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/README.md)
+
+#### Revised high-fidelity prototype
+Based on previous feedback, I revised the instruction on the Map page, changed the filter circles, revised the filter button to allow more intuitive interactions, enlarged text size, and revised the order of the relevancy of search results on Resources page... [read more about the revision at the bottom of this page>>](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/README.md)
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FtT7DfvhYQKOVcNCD0sJYDX%2FDH150-AMANDA-RUAN%3Fnode-id%3D152%253A1%26scaling%3Dmin-zoom&chrome=DOCUMENTATION" allowfullscreen></iframe>
 
 ### Pitch video 
 More to come
