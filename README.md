@@ -14,7 +14,8 @@ During quarantine, I have observed many people, such as my friends and family, w
   3. (CDC app) Menu button for news/articles categories is not obvious to new users
   4. (CDC app) Lacks bottom tap bar (lack of consistency with conventional app design)
   5. (Both apps) need to improve the system for item recognition rather than recall
-  [read more>>](https://github.com/amandamandayuen/DH150-SPR20-HeuristicEvaluation-Assignment01)
+  
+ [read more>>](https://github.com/amandamandayuen/DH150-SPR20-HeuristicEvaluation-Assignment01)
 
 #### Usability Testing
 - To better understand how a person would actually interact with an app, this usability testing evaluated the COVID-19Tracker app using three main usability metric - effectiveness, efficiency and satisfaction. This testing aims to see whether the features on COVID-19Tracker app are navigable, whether the app presents clear information related to COVID-19 data and news, whether a user can effectively and efficiently find the information she/he needs, and users' attitude towards the app. Based on results from Heuristic Evaluation, I developed three tasks for the participant to complete. I found that the user did struggle with recognizing certain less visiable features and looking for specific information, as these aspects of the UI/UX design of the interface were not user-friendly enough. [read more>>](https://github.com/amandamandayuen/DH150-SPR20-UT-Assignment02)
@@ -27,9 +28,10 @@ The purpose of UX Storytelling is to illustrate target users' contexts, needs, p
   1. A mid-age woman tries to understand the current spread of COVID-19 within her community of living. 
   2. An undergraduate student who currently lives alone and tries to seek for mental health help.
   3. An elderly restaurant owner who tries to follow up newest restaurant guidance and search for testing booths. 
-  [read more>>](https://github.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling)
  
  <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling/master/Persona1.png" height="175px">  <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling/master/Persona2.png" height="175px">  <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling/master/Persona3.png" height="175px">
+ 
+[read more>>](https://github.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling)
 
 ### Wireframe and Graphic Design Element Variation [assignment06 + part of 07]
 Based on feedback from User Research and the tasks from UX Storytelling, I first drafted a low-fidelity prototyping version of the wireframes and then created a high-fidelity version of the wrieframes for the COVID-19 Information app. 
@@ -70,8 +72,8 @@ To better simulate a real interactive system, the high-fidelity prototype also s
 ### Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
-More to come
 ### Pitch video 
 More to come
+
 ### Conclusion: what did you learn throughout the process?
 More to come
