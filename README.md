@@ -40,7 +40,7 @@ Based on feedback from User Research and the tasks from UX Storytelling, I first
 
 ### Low-Fidelity Prototype (wireflow, assignment06)
 Low-fidelity prototying and testing allow me to understand the general flow of the wireframes and specific design elements that might affect a user's interactions, such as filter buttons and back buttons. Tasks that the low-fidelity prototype support:
-- __Map tool__: Find the spread of active cases in 1) California and in 2) Westwood.
+- __Map tool__: Find the spread of active cases in 1) California and in 2) Westwood
 - __Q&A tool__: Look for mental health online call line
 - __Resources tool__: Search for 1) local testing booths information and 2) latest restaurant guidance
  
