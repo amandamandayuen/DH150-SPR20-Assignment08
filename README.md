@@ -29,7 +29,7 @@ The purpose of UX Storytelling is to illustrate target users' contexts, needs, p
   3. An elderly restaurant owner who tries to follow up newest restaurant guidance and search for testing booths. 
   [read more>>](https://github.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling)
  
- <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling/master/Persona1.png" height="200px"> <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling/master/Persona2.png" height="200px"> <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling/master/Persona3.png" height="200px">
+ <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling/master/Persona1.png" height="170px"> <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling/master/Persona2.png" height="170px"> <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling/master/Persona3.png" height="170px">
 
 ### Wireframe and Graphic Design Element Variation [assignment06 + part of 07]
 Based on feedback from User Research and the tasks from UX Storytelling, I first drafted a low-fidelity prototyping version of the wireframes and then created a high-fidelity version of the wrieframes for the COVID-19 Information app. 
@@ -43,7 +43,7 @@ Low-fidelity prototying and testing allow me to understand the general flow of t
 - __Resources tool__: Search for 1) local testing booths information and 2) latest restaurant guidance
 [read more about low-fidelity prototyping>>](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype) 
 
-<img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/master/Task%201%20wireflows%20testing.JPG" height="230px"> <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/master/Task%202%20wireflows%20testing.jpg" height="230px"> <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/master/Task%203%20wireflows%20testing.jpg" height="230px">
+<img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/master/Task%201%20wireflows%20testing.JPG" height="225px"> <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/master/Task%202%20wireflows%20testing.jpg" height="225px"> <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/master/Task%203%20wireflows%20testing.jpg" height="225px">
 
 ### High-Fidelity Prototype (functional/interactive prototype, assignment08)
 Main tasks that the high-fidelity prototype support:
