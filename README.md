@@ -36,17 +36,20 @@ Based on feedback from User Research and the tasks from UX Storytelling, I first
 
 ### Low-Fidelity Prototype (wireflow, assignment06)
 Low-fidelity prototying and testing allow me to understand the general flow of the wireframes and specific design elements that might affect a user's interactions, such as filter buttons and back buttons. Tasks that the low-fidelity prototype support:
-- __Map tool__ Find the spread of active cases in 1) California and in 2) Westwood.
-- __Q&A tool__ Look for mental health online call line
-- __Resources tool__ Search for 1) local testing booths information and 2) latest restaurant guidance
+- __Map tool__: Find the spread of active cases in 1) California and in 2) Westwood.
+- __Q&A tool__: Look for mental health online call line
+- __Resources tool__: Search for 1) local testing booths information and 2) latest restaurant guidance
 [read more about low-fidelity prototyping>>](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype) 
 ![Task 1.2](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/blob/master/Task%201%20wireflows%20testing.JPG)
 ![Task 2 test](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/blob/master/Task%202%20wireflows%20testing.jpg)
 ![Task 3 test](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/blob/master/Task%203%20wireflows%20testing.jpg)
 ### High-Fidelity Prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+Main tasks that the high-fidelity prototype support:
+- __Map tool__: Find the spread of active cases 1) near a user and 2) in a specific area (eg. Westwood)
+- __Q&A tool__: Look for mental health online call line
+- __Resources tool__: Search for 1) local testing booths information and 2) latest restaurant guidance
+In order to 
 
-More to come
 ### Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
