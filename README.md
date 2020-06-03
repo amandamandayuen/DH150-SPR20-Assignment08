@@ -41,15 +41,7 @@ Low-fidelity prototying and testing allow me to understand the general flow of t
 - __Resources tool__: Search for 1) local testing booths information and 2) latest restaurant guidance
 [read more about low-fidelity prototyping>>](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype) 
 
-<table>
-  <tr>
-    <td> <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/master/Task%201%20wireflows%20testing.JPG" height="300px"> </td>
-    <td> <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/master/Task%202%20wireflows%20testing.jpg" height="300px"> </td>
-    <td> <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/master/Task%203%20wireflows%20testing.jpg" height="300px"> </td>
-  </tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/master/Task%201%20wireflows%20testing.JPG" height="300px"> <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/master/Task%202%20wireflows%20testing.jpg" height="300px"> <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/master/Task%203%20wireflows%20testing.jpg" height="300px">
+<img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/master/Task%201%20wireflows%20testing.JPG" height="250px"> <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/master/Task%202%20wireflows%20testing.jpg" height="250px"> <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/master/Task%203%20wireflows%20testing.jpg" height="250px">
 
 ### High-Fidelity Prototype (functional/interactive prototype, assignment08)
 Main tasks that the high-fidelity prototype support:
