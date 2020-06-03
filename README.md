@@ -43,11 +43,13 @@ Low-fidelity prototying and testing allow me to understand the general flow of t
 ![Task 1.2](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/blob/master/Task%201%20wireflows%20testing.JPG)
 ![Task 2 test](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/blob/master/Task%202%20wireflows%20testing.jpg)
 ![Task 3 test](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/blob/master/Task%203%20wireflows%20testing.jpg)
+
 ### High-Fidelity Prototype (functional/interactive prototype, assignment08)
 Main tasks that the high-fidelity prototype support:
 - __Map tool__: Find the spread of active cases 1) near a user and 2) in a specific area (eg. Westwood)
 - __Q&A tool__: Look for mental health online call line
 - __Resources tool__: Search for 1) local testing booths information and 2) latest restaurant guidance
+
 In order to 
 
 ### Optional evaluation and revision history 
