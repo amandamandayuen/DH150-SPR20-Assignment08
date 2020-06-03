@@ -46,11 +46,23 @@ Low-fidelity prototying and testing allow me to understand the general flow of t
 
 ### High-Fidelity Prototype (functional/interactive prototype, assignment08)
 Main tasks that the high-fidelity prototype support:
-- __Map tool__: Find the spread of active cases 1) near a user and 2) in a specific area (eg. Westwood)
-- __Q&A tool__: Look for mental health online call line
+- __Map tool__: Find the spread of active cases 1) near a user and 2) in a specific neighborhood (eg. Westwood)
+- __Q&A tool__: 1) Look for mental health online call line and 2) submit a question
 - __Resources tool__: Search for 1) local testing booths information and 2) latest restaurant guidance
 
-In order to 
+To better simulate a real interactive system, the high-fidelity prototype also support:
+-	Instructions when first enter Map page
+- Customize/Filter viewing cases options on the Map tool
+- Click and unclick filter information box on the Map tool
+-	Search by keywords
+-	Search by microphone input
+- Go back to previous page with "back" button
+- Go up and down on a page (to simulate scroll function)
+[read more about high-fidelity prototyping>>](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/README.md)
+
+#### [Link to high-fidelity wireframes](https://www.figma.com/file/tT7DfvhYQKOVcNCD0sJYDX/DH150-AMANDA-RUAN?node-id=152%3A0) 
+
+#### [Link to high-fidelity interactive prototype](https://www.figma.com/proto/tT7DfvhYQKOVcNCD0sJYDX/DH150-AMANDA-RUAN?node-id=152%3A1910&scaling=scale-down)
 
 ### Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
