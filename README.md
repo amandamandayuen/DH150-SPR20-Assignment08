@@ -22,21 +22,21 @@ During quarantine, I have observed many people, such as my friends and family, w
 ### User Research [contextual inquiry, assignment04]:
 User Research aimed to understand more about target users and the actual context users are in, such as which groups of people would actually use the apps, and the target users' needs, motivation, thoughts, feelings and activities. I conducted an interview with a potential user, and learned about the user's thoughts and emotional needs during quarantine, how the user typically consume COVID-19 information with her choices of mobile apps, and how the user struggled to look for certain information because of a lack of information or lack of organized categories for the information. These feedback help me to understand an actual user's needs and insights that I failed to consider before, such as how the user found it hard to search for valid testing booths information and mental health information. [read more>>](https://github.com/amandamandayuen/DH150-SPR20-UserInContext-Assignment05)
 
-### UX storytelling [persona+scenario, assignment05]
+### UX Storytelling [persona+scenario, assignment05]
 The purpose of UX Storytelling is to illustrate target users' contexts, needs, problems, desires, and solutions from their point of view, so that it helps UI/UX researchers and designers to better understand how to implement and design the system that matches the target users. Based on previous feedback, I created three different personas with distinctive tasks, hoping to explore how different target users would use the COVID-19 Information app to solve their problems. 
   1. A mid-age woman tries to understand the current spread of COVID-19 within her community of living. 
   2. An undergraduate student who currently lives alone and tries to seek for mental health help.
   3. An elderly restaurant owner who tries to follow up newest restaurant guidance and search for testing booths. 
   [read more>>](https://github.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling)
 
-### Wireframe and graphic design element variation [assignment06 + part of 07]
-Based on User Research and Personas development, this low-fidelity prototyping created a draft version of the wireframes of the COVID-19 app. The purpose is to see whether the features work as expected and whether a potential user can easily navigate through the features and finds what he/she needs. [read more>>](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype)
+### Wireframe and Graphic Design Element Variation [assignment06 + part of 07]
+Based on feedback from User Research and the tasks from UX Storytelling, I first drafted a low-fidelity prototyping version of the wireframes and then created a high-fidelity version of the wrieframes for the COVID-19 Information app. The purpose of low-fidelity prototypping is to see whether the system's features are understandable, whether the interaction between a potential user and the wireframes is smooth, how a potential user interprets the features and navigates through the features, and completes the tasks proposed in UX Storytelling. [read more about low-fidelity prototyping>>](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype) Based on feedback from low-fidelity prototyping, I revised the prototypes and created a high-fidelity version that simulate real-life app system, and conducted impression test and usability test to see how potential users could actually interact with the system and reveal more parts for improvements to better assist potential users in looking for what they need. [read more about high-fidelity prototyping>>](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/README.md)
 
-### Low-fidelity prototype (wireflow, assignment06)
+### Low-Fidelity Prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
 More to come
-### High-fidelity prototype (functional/interactive prototype, assignment08)
+### High-Fidelity Prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
 
 More to come
