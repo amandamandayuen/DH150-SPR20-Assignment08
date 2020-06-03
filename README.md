@@ -68,7 +68,7 @@ To better simulate a real interactive system, the high-fidelity prototype also s
 [read more about high-fidelity prototyping>>](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/README.md)
 
 #### [Link to high-fidelity wireframes](https://www.figma.com/file/tT7DfvhYQKOVcNCD0sJYDX/DH150-AMANDA-RUAN?node-id=152%3A0)
-<img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/master/Wireflow%20All.png" height="500px">
+<img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/master/Wireflow%20All.png" height="400px">
 
 #### [Link to high-fidelity interactive prototype](https://www.figma.com/proto/tT7DfvhYQKOVcNCD0sJYDX/DH150-AMANDA-RUAN?node-id=152%3A1910&scaling=scale-down)
 
