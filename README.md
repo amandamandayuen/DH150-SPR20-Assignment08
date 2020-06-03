@@ -29,7 +29,7 @@ The purpose of UX Storytelling is to illustrate target users' contexts, needs, p
   3. An elderly restaurant owner who tries to follow up newest restaurant guidance and search for testing booths. 
   [read more>>](https://github.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling)
  
- <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling/master/Persona1.png" height="190px"> <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling/master/Persona2.png" height="190px"> <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling/master/Persona3.png" height="190px">
+ <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling/master/Persona1.png" height="188px"> <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling/master/Persona2.png" height="188px"> <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling/master/Persona3.png" height="188px">
 
 ### Wireframe and Graphic Design Element Variation [assignment06 + part of 07]
 Based on feedback from User Research and the tasks from UX Storytelling, I first drafted a low-fidelity prototyping version of the wireframes and then created a high-fidelity version of the wrieframes for the COVID-19 Information app. 
