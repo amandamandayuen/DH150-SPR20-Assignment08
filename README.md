@@ -37,7 +37,7 @@ The purpose of UX Storytelling is to illustrate target users' contexts, needs, p
 
 ### Wireframe and Graphic Design Element Variation:
 Based on feedback from User Research and the tasks from UX Storytelling, I first drafted a low-fidelity prototyping version of the wireframes and then created a high-fidelity version of the wrieframes for the COVID-19 Information app. The layout design combines the design from different public health and COVID-19 apps, and the implement of color scheme also considers the color scheme of CDC websites and other public health apps.
-- The purpose of low-fidelity prototypping is to see whether the system's features are understandable, whether the interaction between a potential user and the wireframes is smooth, how a potential user interprets the features and navigates through the features, and completes the tasks proposed in UX Storytelling. [read more about low-fidelity prototyping>>](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype) 
+- The purpose of low-fidelity prototyping is to see whether the system's features are understandable, whether the interaction between a potential user and the wireframes is smooth, how a potential user interprets the features and navigates through the features, and completes the tasks proposed in UX Storytelling. [read more about low-fidelity prototyping>>](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype) 
 - Based on feedback from low-fidelity prototyping, I revised the prototypes and created a high-fidelity version that simulate real-life app system, and conducted impression test and usability test to see how potential users could actually interact with the system and reveal more parts for improvements to better assist potential users in looking for what they need. [read more about high-fidelity prototyping>>](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/README.md)
 
 ### Low-Fidelity Prototype:
@@ -67,10 +67,10 @@ To better simulate a real interactive system, the high-fidelity prototype also s
 
 [read more about high-fidelity prototyping>>](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/README.md)
 
-#### [Link to high-fidelity wireframes](https://www.figma.com/file/tT7DfvhYQKOVcNCD0sJYDX/DH150-AMANDA-RUAN?node-id=152%3A0)
+#### [Link to high-fidelity wireframes>>](https://www.figma.com/file/tT7DfvhYQKOVcNCD0sJYDX/DH150-AMANDA-RUAN?node-id=152%3A0)
 <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/master/Wireflow%20All.png" height="400px">
 
-#### [Link to high-fidelity interactive prototype](https://www.figma.com/proto/tT7DfvhYQKOVcNCD0sJYDX/DH150-AMANDA-RUAN?node-id=152%3A1910&scaling=scale-down)
+#### [Link to high-fidelity interactive prototype>>](https://www.figma.com/proto/tT7DfvhYQKOVcNCD0sJYDX/DH150-AMANDA-RUAN?node-id=152%3A1910&scaling=scale-down)
 
 #### Prototype 1.0:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FtT7DfvhYQKOVcNCD0sJYDX%2FDH150-AMANDA-RUAN%3Fnode-id%3D1%253A2%26scaling%3Dmin-zoom&chrome=DOCUMENTATION" allowfullscreen></iframe>
