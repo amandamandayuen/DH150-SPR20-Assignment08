@@ -15,9 +15,7 @@ During quarantine, I have observed many people, such as my friends and family, w
   2. (COVID-19Tracker app) No search tool or filter tool provided for users to search for news they want on the Feed page
   3. (CDC app) Menu button for news/articles categories is not obvious to new users
   4. (CDC app) Lacks bottom tap bar (lack of consistency with conventional app design)
-  5. (Both apps) need to improve the system for item recognition rather than recall
-  
- [read more about Heuristic Evaluation>>](https://github.com/amandamandayuen/DH150-SPR20-HeuristicEvaluation-Assignment01)
+  5. (Both apps) need to improve the system for item recognition rather than recall [read more>>](https://github.com/amandamandayuen/DH150-SPR20-HeuristicEvaluation-Assignment01)
 
 #### Usability Testing:
 - To better understand how a person would actually interact with an app, this usability testing evaluated the COVID-19Tracker app using three main usability metric - effectiveness, efficiency and satisfaction. This testing aims to see whether the features on COVID-19Tracker app are navigable, whether the app presents clear information related to COVID-19 data and news, whether a user can effectively and efficiently find the information she/he needs, and users' attitude towards the app. Based on results from Heuristic Evaluation, I developed three tasks for the participant to complete. I found that the user did struggle with recognizing certain less visiable features and looking for specific information, as these aspects of the UI/UX design of the interface were not user-friendly enough. [read more>>](https://github.com/amandamandayuen/DH150-SPR20-UT-Assignment02)
