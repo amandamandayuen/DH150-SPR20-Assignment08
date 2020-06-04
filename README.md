@@ -101,7 +101,12 @@ Based on previous feedback, I revised the instruction on the Map page, changed t
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FtT7DfvhYQKOVcNCD0sJYDX%2FDH150-AMANDA-RUAN%3Fnode-id%3D152%253A1%26scaling%3Dmin-zoom&chrome=DOCUMENTATION" allowfullscreen></iframe>
 
 ### Pitch Video: 
-Link:
+#### ![Link to Pitch Video>>](https://youtu.be/DnMgh0sVDdk)
+
+[![Pitch Video](http://img.youtube.com/vi/DnMgh0sVDdk/0.jpg)](https://www.youtube.com/embed/DnMgh0sVDdk)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DnMgh0sVDdk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Conclusion: 
 Throughout this quarter, I learned how UI/UX design process requires iterative and systematic rules and research that I did not think about before the class. I have graphic design background and have always been interested in UI/UX, but I did not really know much about UI/UX until this class. The process of creating a project requires much more effort than I thought, and the entire process is both a challenge and an enjoyment to me. A designer's perspective could be different from users, and the variety inquiry methods, such as usability test and contextual inquiry, could help me to understand the prospect users and their needs. I started to understand how UI/UX should always be about users. I also learned about how something I got used to and felt intuitive before, such as different gestures and points of interactions on an interface, 
