@@ -78,7 +78,7 @@ To better simulate a real interactive system, the high-fidelity prototype also s
 #### Prototype Revised
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FtT7DfvhYQKOVcNCD0sJYDX%2FDH150-AMANDA-RUAN%3Fnode-id%3D152%253A1%26scaling%3Dmin-zoom&chrome=DOCUMENTATION" allowfullscreen></iframe>
 
-### Optional Evaluation and Revision History
+### Evaluation and Revision History
 #### Impression Test
 I conducted two impression tests both in-class and outside of class. The main feedback from the impression tests include the affordance of the design of the buttons, confusion related to the filter circles on map, and language choices for certain buttons. [read more about impression test in this page>>](https://github.com/amandamandayuen/DH150-Assignment07-HighFidelityPrototype/blob/master/README.md)
 
@@ -98,7 +98,8 @@ Based on previous feedback, I revised the instruction on the Map page, changed t
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FtT7DfvhYQKOVcNCD0sJYDX%2FDH150-AMANDA-RUAN%3Fnode-id%3D152%253A1%26scaling%3Dmin-zoom&chrome=DOCUMENTATION" allowfullscreen></iframe>
 
 ### Pitch video 
-More to come
+Link:
 
-### Conclusion: what did you learn throughout the process?
-More to come
+### Conclusion: 
+Throughout this quarter, I learned how UI/UX design process requires iterative and systematic rules and research that I did not think about before the class. I have graphic design background and have always been interested in UI/UX, but I did not really know much about UI/UX until this class. The process of creating a project requires much more effort than I thought, and the entire process is both a challenge and an enjoyment to me. A designer's perspective could be different from users, and the variety inquiry methods, such as usability test and contextual inquiry, could help me to understand the prospect users and their needs. I started to understand how UI/UX should always be about users. I also learned about how something I got used to and felt intuitive before, such as different gestures and points of interactions on an interface, 
+is challenge to design to deliver the feelings of convience and intuition to the users. I also appreciate how conducting various user testings helps me to pay attention to details that I have overseen before. In the future, if I could do anything to revise this project, I hope I could test the prototypes with different people from a greater variety of backgrounds, and also further improve readbility of the text, such as the color contrast and text size. I also hope to work on different types of UI/UX projects in the future. 
