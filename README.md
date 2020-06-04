@@ -103,8 +103,6 @@ Based on previous feedback, I revised the instruction on the Map page, changed t
 ### Pitch Video: 
 #### ![Link to Pitch Video>>](https://youtu.be/DnMgh0sVDdk)
 
-[![Pitch Video](http://img.youtube.com/vi/DnMgh0sVDdk/0.jpg)](https://www.youtube.com/embed/DnMgh0sVDdk)
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DnMgh0sVDdk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
