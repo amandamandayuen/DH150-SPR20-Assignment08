@@ -27,7 +27,9 @@ The purpose of UX Storytelling is to illustrate target users' contexts, needs, p
   2. An undergraduate student who currently lives alone and tries to seek for mental health help.
   3. An elderly restaurant owner who tries to follow up newest restaurant guidance and search for testing booths. 
  
- <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling/master/Persona1.png" height="175px">  <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling/master/Persona2.png" height="175px">  <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling/master/Persona3.png" height="175px">
+ <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling/master/Persona1.png" height="175px">  <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling/master/Persona2.png" height="175px"> 
+ 
+ <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling/master/Persona3.png" height="175px">
  
 [read more about UX Storytelling>>](https://github.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling)
 
@@ -42,7 +44,9 @@ Low-fidelity prototying and testing allow me to understand the general flow of t
 - __Q&A tool__: Look for mental health online call line
 - __Resources tool__: Search for 1) local testing booths information and 2) latest restaurant guidance
  
-<img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/master/Task%201%20wireflows%20testing.JPG" height="225px"> <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/master/Task%202%20wireflows%20testing.jpg" height="225px"> <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/master/Task%203%20wireflows%20testing.jpg" height="225px">
+<img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/master/Task%201%20wireflows%20testing.JPG" height="225px"> <img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/master/Task%202%20wireflows%20testing.jpg" height="225px">
+
+<img src="https://raw.githubusercontent.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype/master/Task%203%20wireflows%20testing.jpg" height="225px">
 
 [read more about low-fidelity prototyping>>](https://github.com/amandamandayuen/DH150-Assignment06-LowFidelityPrototype) 
 
