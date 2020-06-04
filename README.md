@@ -101,7 +101,7 @@ Based on previous feedback, I revised the instruction on the Map page, changed t
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FtT7DfvhYQKOVcNCD0sJYDX%2FDH150-AMANDA-RUAN%3Fnode-id%3D152%253A1%26scaling%3Dmin-zoom&chrome=DOCUMENTATION" allowfullscreen></iframe>
 
 ### Pitch Video: 
-#### ![Link to Pitch Video>>](https://youtu.be/DnMgh0sVDdk)
+#### [Link to Pitch Video>>](https://youtu.be/DnMgh0sVDdk)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DnMgh0sVDdk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
